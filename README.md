@@ -13,8 +13,7 @@
 </p>
 
 ## Demo
-
-[![Demo CountPages alpha](https://s1.gifyu.com/images/untitledaca98192d9660a4b.md.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+<img src="demo.gif" alt="alt text" width="350" height="700">
 
 ## About the implementation
 
