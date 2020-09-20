@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Square Repos</string>
+    <string name="empty_state_error_message">There are no repos to present!</string>
+    <string name="no_network_error_message">No network connection!</string>
+</resources>
