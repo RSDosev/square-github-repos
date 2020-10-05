@@ -25,7 +25,7 @@
 - Unit and instrumented tests
 - Modularization by layers 
   - App module - contains the UI logic (Activities, Fragments and ViewModels) + unit tests for the ViewModels and UI tests for the Activities and Fragments
-  - Data module - c
+  - Data module - contains the logic for fetching and storing (in-memory) the data (using the repository pattern)
   - Domain module - contains the business login (UseCases and Interactors) + unit tests
 - Handling of loading, content and failure states
 - In-memory caching
